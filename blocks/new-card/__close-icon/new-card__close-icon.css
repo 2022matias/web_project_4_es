@@ -1,0 +1,11 @@
+.new-card__close-icon{
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  top: -39px;
+  right: 0;
+}
+
+.new-card__close-icon:hover{
+  opacity: 0.6;
+}
